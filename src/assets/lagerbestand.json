@@ -1,0 +1,514 @@
+{
+  "artWorks": [
+    {
+      "id": "1",
+      "ime": "Proleće",
+      "dimenzije": "60cm x 80cm",
+      "material": "Ulje na platnu",
+      "godina": "2016"
+    },
+    {
+      "id": "2",
+      "ime": "Jesen na Zlatiboru",
+      "dimenzije": "60cm x 50cm",
+      "material": "Ulje na platnu",
+      "godina": "2016"
+    },
+    {
+      "id": "3",
+      "ime": "Jesenski zalazak sunca",
+      "dimenzije": "50cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2017"
+    },
+    {
+      "id": "4",
+      "ime": "Šumski proplanak",
+      "dimenzije": "45cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2010"
+    },
+    {
+      "id": "5",
+      "ime": "Brza reka",
+      "dimenzije": "50cm x 37cm",
+      "material": "Ulje na platnu",
+      "godina": "2006"
+    },
+    {
+      "id": "6",
+      "ime": "Pećina pored mora",
+      "dimenzije": "50cm x 38cm",
+      "material": "Ulje na kartonu",
+      "godina": "2014"
+    },
+    {
+      "id": "7",
+      "ime": "Prvi sneg",
+      "dimenzije": "60cm x 45cm ",
+      "material": "Ulje na platnu",
+      "godina": "2013"
+    },
+    {
+      "id": "8",
+      "ime": "Rana jesen",
+      "dimenzije": "48cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2015"
+    },
+    {
+      "id": "9",
+      "ime": "Pogled na more",
+      "dimenzije": "38cm x 59cm",
+      "material": "Ulje na platnu",
+      "godina": "2013"
+    },
+    {
+      "id": "10",
+      "ime": "Na otvorenom moru",
+      "dimenzije": "45cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2008"
+    },
+    {
+      "id": "11",
+      "ime": "Leto",
+      "dimenzije": "45cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2008"
+    },
+    {
+      "id": "12",
+      "ime": "Zlatna jesen",
+      "dimenzije": "50cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2010"
+    },
+    {
+      "id": "14",
+      "ime": "Zimsko jutro",
+      "dimenzije": "50x60",
+      "material": "Ulje na platnu",
+      "godina": ""
+    },
+    {
+      "id": "15",
+      "ime": "Crkvica",
+      "dimenzije": "55cm x 75cm",
+      "material": "Ulje na platnu",
+      "godina": "2016"
+    },
+    {
+      "id": "16",
+      "ime": "Vodopad na staroj planini",
+      "dimenzije": "50cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2012"
+    },
+    {
+      "id": "17",
+      "ime": "Pecina",
+      "dimenzije": "97cm x 67cm ",
+      "material": "ulje na platnu",
+      "godina": "2006"
+    },
+    {
+      "id": "18",
+      "ime": "Prirodna kapija",
+      "dimenzije": "67cm x 77cm ",
+      "material": "ulje na platnu",
+      "godina": "2004"
+    },
+    {
+      "id": "19",
+      "ime": "Milosev konak",
+      "dimenzije": "60cm x 90cm",
+      "material": "Ulje na platnu",
+      "godina": "2007"
+    },
+    {
+      "id": "20",
+      "ime": "Morski živi svet",
+      "dimenzije": "100cm x 80cm",
+      "material": "Ulje na platnu",
+      "godina": "2013"
+    },
+    {
+      "id": "21",
+      "ime": "Abstrakcija I",
+      "dimenzije": "80cm x 60cm ",
+      "material": "akril, smesa Sa fasade, cirkoni",
+      "godina": "2020"
+    },
+    {
+      "id": "22",
+      "ime": "Abstrakcija II",
+      "dimenzije": "70cm x 90cm ",
+      "material": " akril, masa sa fasade",
+      "godina": "2020"
+    },
+    {
+      "id": "23",
+      "ime": "Svetogorske stene",
+      "dimenzije": "40cm x 50cm ",
+      "material": "Ulje na lesonitu i regips prah ",
+      "godina": "2011"
+    },
+    {
+      "id": "24",
+      "ime": "Planinska recica",
+      "dimenzije": "38cm x 48cm",
+      "material": "Ulje na lesonitu",
+      "godina": "2019"
+    },
+    {
+      "id": "25",
+      "ime": "Jorgovani",
+      "dimenzije": "40cm x 50cm ",
+      "material": "Ulje na platnu",
+      "godina": "2013"
+    },
+    {
+      "id": "26",
+      "ime": "Selo pored reke",
+      "dimenzije": "40cm x 50cm",
+      "material": "Ulje na platnu",
+      "godina": "2020"
+    },
+    {
+      "id": "27",
+      "ime": "Suncan dan ",
+      "dimenzije": "40cm x 50cm",
+      "material": "Ulje na platnu",
+      "godina": "2017"
+    },
+    {
+      "id": "28",
+      "ime": "Zaboravljen čamac",
+      "dimenzije": "44cm x 50cm",
+      "material": "Ulje na platnu",
+      "godina": "2001"
+    },
+    {
+      "id": "29",
+      "ime": "Sumrak",
+      "dimenzije": "45cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2014"
+    },
+    {
+      "id": "30",
+      "ime": "Otapanje snega",
+      "dimenzije": "40cm x 50cm",
+      "material": "Ulje na lesonitu",
+      "godina": ""
+    },
+    {
+      "id": "31",
+      "ime": "Vodopad",
+      "dimenzije": "60cm x 38cm",
+      "material": "Ulje na platnu",
+      "godina": "2002"
+    },
+    {
+      "id": "32",
+      "ime": "Vodopad II",
+      "dimenzije": "60cm x 38cm",
+      "material": "Ulje na platnu",
+      "godina": "2003"
+    },
+    {
+      "id": "33",
+      "ime": "Posle kiše",
+      "dimenzije": "50cm x 30cm ",
+      "material": "Ulje na platnu",
+      "godina": "2016"
+    },
+    {
+      "id": "34",
+      "ime": "Prolećni dan",
+      "dimenzije": "59cm x 30cm",
+      "material": "Ulje na platnu",
+      "godina": "2001"
+    },
+    {
+      "id": "35",
+      "ime": "Jesena čuda",
+      "dimenzije": "59cm x 30cm",
+      "material": "Ulje na platnu",
+      "godina": "2002"
+    },
+    {
+      "id": "36",
+      "ime": "Abstrakcija roze",
+      "dimenzije": "40cm x 40cm",
+      "material": "Akrilna masa sa fasade",
+      "godina": "2012"
+    },
+    {
+      "id": "37",
+      "ime": "Zima u polju",
+      "dimenzije": "50cm x 73cm",
+      "material": "Ulje na platnu",
+      "godina": "2011"
+    },
+    {
+      "id": "38",
+      "ime": "More",
+      "dimenzije": "50cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2000"
+    },
+    {
+      "id": "39",
+      "ime": "Pejsaž",
+      "dimenzije": "60cm x 45cm",
+      "material": "Ulje na platnu",
+      "godina": "2013"
+    },
+    {
+      "id": "40",
+      "ime": "Svetlost kroz šumu",
+      "dimenzije": "60cm x 45cm",
+      "material": "Ulje na platnu",
+      "godina": "2015"
+    },
+    {
+      "ime": "Šumski put",
+      "dimenzije": "50cm x 70cm",
+      "material": "Ulje na platnu",
+      "godina": "2016"
+    },
+    {
+      "id": "42",
+      "ime": "Močvara",
+      "dimenzije": "50cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "1999"
+    },
+    {
+      "id": "43",
+      "ime": "Stara vikendica",
+      "dimenzije": "49cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2012"
+    },
+    {
+      "id": "44",
+      "ime": "Otac i sin u camcu",
+      "dimenzije": "45cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2001"
+    },
+    {
+      "id": "45",
+      "ime": "Grad u stenama",
+      "dimenzije": "75cm x 54cm ",
+      "material": "Ulje na platnu",
+      "godina": "2011"
+    },
+    {
+      "id": "46",
+      "ime": "Konj",
+      "dimenzije": "70cm x 50cm ",
+      "material": "Ulje na platnu",
+      "godina": "2015"
+    },
+    {
+      "id": "47",
+      "ime": "Alpski glečeri",
+      "dimenzije": "70cm x 50cm ",
+      "material": "Ulje na platnu sa peskom",
+      "godina": "2013"
+    },
+    {
+      "id": "48",
+      "ime": "Zeteoc",
+      "dimenzije": "45cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2000"
+    },
+    {
+      "id": "49",
+      "ime": "Abstrakcija III",
+      "dimenzije": "45cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "1998"
+    },
+    {
+      "id": "50",
+      "ime": "Manastir",
+      "dimenzije": "70cm x 50cm ",
+      "material": "Ulje na platnu",
+      "godina": "2012"
+    },
+    {
+      "id": "51",
+      "ime": "Planinski krs",
+      "dimenzije": "75cm x 50cm ",
+      "material": "ulje, platna, neprosejani pesak",
+      "godina": "2013"
+    },
+    {
+      "id": "52",
+      "ime": "Lepota pod vodom",
+      "dimenzije": "40cm x 50cm ",
+      "material": "Ulje na platnu",
+      "godina": "2017"
+    },
+    {
+      "id": "53",
+      "ime": "Pristanište čamaca",
+      "dimenzije": "50cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2009"
+    },
+    {
+      "id": "54",
+      "ime": "Planinska reka",
+      "dimenzije": "45cm x 45cm ",
+      "material": "Ulje na lesonitu",
+      "godina": "2015"
+    },
+    {
+      "id": "55",
+      "ime": "Grad",
+      "dimenzije": "58cm x 38cm",
+      "material": "Ulje na platnu",
+      "godina": "2006"
+    },
+    {
+      "id": "56",
+      "ime": "Progresija ",
+      "dimenzije": "60cm x 50cm ",
+      "material": "Ulje na platnu",
+      "godina": "2006"
+    },
+    {
+      "id": "57",
+      "ime": "Intima",
+      "dimenzije": "60cm x 50cm",
+      "material": "Ulje na platnu",
+      "godina": "2008"
+    },
+    {
+      "id": "58",
+      "ime": "Milina",
+      "dimenzije": "40cm x 60cm",
+      "material": "Ulje na platnu",
+      "godina": "2007"
+    },
+    {
+      "id": "59",
+      "ime": "Tišina",
+      "dimenzije": "37cm x 40cm",
+      "material": "Ulje na platnu",
+      "godina": "2005"
+    },
+    {
+      "id": "60",
+      "ime": "Portret",
+      "dimenzije": "30cm x 40cm",
+      "material": "Suvi pastel",
+      "godina": "2020"
+    },
+    {
+      "id": "61",
+      "ime": "Crvena abstrakcija",
+      "dimenzije": "80cm x 60cm ",
+      "material": "Ulje na platnu",
+      "godina": "2015"
+    },
+    {
+      "id": "62",
+      "ime": "Užareno nebo",
+      "dimenzije": "60cm x 40cm ",
+      "material": "Ulje na platnu",
+      "godina": "2013"
+    },
+    {
+      "id": "63",
+      "ime": "Urbano naselje",
+      "dimenzije": "80cm x 70cm ",
+      "material": "Ulje na platnu",
+      "godina": "2015"
+    },
+    {
+      "id": "64",
+      "ime": "Moj put u zimi",
+      "dimenzije": "60cm x 50cm ",
+      "material": "Ulje na platnu",
+      "godina": "2006"
+    },
+    {
+      "id": "65",
+      "ime": "Zelenište",
+      "dimenzije": "80cm x 70cm ",
+      "material": "Ulje na platnu",
+      "godina": "2006"
+    },
+    {
+      "id": "66",
+      "ime": "Plitvice",
+      "dimenzije": "60cm x 50cm ",
+      "material": "Ulje na platnu",
+      "godina": "2009"
+    },
+    {
+      "id": "67",
+      "ime": "Pogled",
+      "dimenzije": "60cm x 80cm",
+      "material": "Ulje na platnu",
+      "godina": "2017"
+    },
+    {
+      "id": "68",
+      "ime": "U Pejsažu",
+      "dimenzije": "80cm x 60cm ",
+      "material": "Ulje na platnu",
+      "godina": "2019"
+    },
+    {
+      "id": "69",
+      "ime": "Abstrakcija  IV",
+      "dimenzije": "60cm x 80cm",
+      "material": "Ulje na platnu sa peskom",
+      "godina": "2017"
+    },
+    {
+      "id": "70",
+      "ime": "Abstrakcija prvak",
+      "dimenzije": "80cm x 70cm ",
+      "material": "Ulje na platnu",
+      "godina": "2019"
+    },
+    {
+      "id": "71",
+      "ime": "Haos australija",
+      "dimenzije": "40cm x 50cm ",
+      "material": "Ulje na platnu",
+      "godina": "2020"
+    },
+    {
+      "id": "72",
+      "ime": "Korona",
+      "dimenzije": "120cm x 100cm",
+      "material": "akril, smesa sa fasade",
+      "godina": "2020"
+    },
+    {
+      "id": "73",
+      "ime": "Leptir",
+      "dimenzije": "120cm x 100cm",
+      "material": "akril, smesa sa fasade",
+      "godina": "2020"
+    },
+    {
+      "id": "74",
+      "ime": "Abstrakcija Vodopad",
+      "dimenzije": "120cm x 100cm",
+      "material": "akril, smesa sa fasade",
+      "godina": "2020"
+    }
+  ]
+}
